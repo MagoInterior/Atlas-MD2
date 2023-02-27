@@ -30,6 +30,10 @@
   </a>
   <br><br>
   
+      ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/Atlas-MD2)](https://repl.it/github/MagoInterior/Atlas-MD2)
+      
       
 <h4 align="center"> Deploy on Railway - ( YouTube Tutorial Included )
 </h4>
